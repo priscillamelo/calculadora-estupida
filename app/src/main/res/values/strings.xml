@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora Estúpida</string>
+    <string name="set_variable_y">Set Variable Y</string>
+    <string name="set_variable_x">Set Variable X</string>
+    <string name="calculate">Calculate</string>
+    <string name="variavel_x">Variável X:</string>
+    <string name="variavel_y">Variável Y:</string>
+    <string name="x">X</string>
+    <string name="result">Result</string>
+    <string name="y">Y</string>
+    <string name="realizando_calculo">Realizando Cálculo</string>
+    <string name="txtvariable">txtVariable</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="sum">Sum:</string>
+</resources>
